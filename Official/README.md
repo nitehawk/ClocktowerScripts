@@ -1,0 +1,1 @@
+These scripts are pulled from the official recommended scripts at https://bloodontheclocktower.com/custom-scripts
